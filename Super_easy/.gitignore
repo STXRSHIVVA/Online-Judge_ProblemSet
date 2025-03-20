@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow all directories to be included
+!*/
+
+# Allow only .cpp files
+!*.cpp
+
